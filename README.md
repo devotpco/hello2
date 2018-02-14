@@ -1,2 +1,2 @@
 # hello2
-This is a test
+Learning some other git features
